@@ -5,4 +5,4 @@
   </p> 
 
   # Instructor
-  <img src="Screenshot 2023-07-29 085900.jpg" width="300" height="100">
+  <img src="img\Screenshot 2023-07-29 085900.jpg">
